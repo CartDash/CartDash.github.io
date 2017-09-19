@@ -52,7 +52,7 @@ body {
 a,
 a:visited {
 	outline: none;
-	color: white;
+	color: black;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	-webkit-transition: all 0.3s ease-in-out;
@@ -2614,3 +2614,5 @@ footer .social-links li:first-child {
 	position: relative;
 	right: -5px;
 }
+
+
